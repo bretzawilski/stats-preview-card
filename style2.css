@@ -1,0 +1,26 @@
+:root {
+  --color-pop: rgb(173, 94, 215);
+  --image-tint: rgba(165, 62, 255, 0.536);
+  --box-background: rgb(29, 25, 56);
+  --site-background: rgb(11, 12, 27);
+  --normal-text: rgb(162, 159, 186);
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: black;
+  font-family: sans-serif;
+  color: white;
+}
+
+.right {
+}
